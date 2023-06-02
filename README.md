@@ -8,3 +8,5 @@ This repo contains two notebooks:
 Feel free to reuse any of this analysis, but please cite the Centre for Public Data as the source.
 
 If you would like a clean copy of the raw data, please contact [anna@centreforpublicdata.org](mailto:anna@centreforpublicdata.org).
+
+**Update June 2023**: We have made corrections to our original report due to errors in data supplied by HM Land Registry - see [the blog post](https://www.centreforpublicdata.org/blog/correction-from-hm-land-registry-updated-report) for details.
